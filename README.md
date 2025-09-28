@@ -1,4 +1,4 @@
-# Monte Carlo Area & Probability Simulations
+# Monte Carlo Area Estimation
 **Language:** Python 3  
 **Libraries:** NumPy, Matplotlib, GeoPandas, Shapely, mpl_toolkits.mplot3d
 
